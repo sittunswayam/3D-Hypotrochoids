@@ -1,2 +1,2 @@
 # 3D-Hypotrochoids
-Displays unique 3D hypotrochoids for different songs, generated from scraped Spotify info
+Generates and animates 3D hypotrochoids.
